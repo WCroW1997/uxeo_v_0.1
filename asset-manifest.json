@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bff5f013.css",
+    "main.js": "/static/js/main.7a6074df.js",
+    "static/js/787.2a7a0ff0.chunk.js": "/static/js/787.2a7a0ff0.chunk.js",
+    "static/media/obraz.jpg": "/static/media/obraz.d1b7a1cf3822a95de4ba.jpg",
+    "static/media/color__wine.jpg": "/static/media/color__wine.f6572cde5d102c45f532.jpg",
+    "static/media/maket2.jpg": "/static/media/maket2.2edf4f0b692806260f5f.jpg",
+    "static/media/typography.jpg": "/static/media/typography.e13cad47bec671e8d253.jpg",
+    "static/media/img2.jpg": "/static/media/img2.0ef2bb069ed865cfba01.jpg",
+    "static/media/maket.jpg": "/static/media/maket.d69505671d6450f48c4f.jpg",
+    "static/media/ux-design1.svg": "/static/media/ux-design1.983dd0ff3bb68fb7279e677a123fe174.svg",
+    "static/media/uiItem.svg": "/static/media/uiItem.490e0891e6f2988df3c2be68a8e11480.svg",
+    "static/media/stopwatch.svg": "/static/media/stopwatch.446ee62f29f372c3464cf9048a5d3ffa.svg",
+    "static/media/lessonBook.svg": "/static/media/lessonBook.434c61dc897a36ed58353dd47bce53cf.svg",
+    "static/media/checkbox.svg": "/static/media/checkbox.406de8612544a51f2692289b7586a035.svg",
+    "static/media/lock-21.svg": "/static/media/lock-21.411813264b66e2e3329c29c95e158e37.svg",
+    "static/media/shadow.png": "/static/media/shadow.93d7981a37b2b0bb5269.png",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.369fc8670fd468803a942910fed08677.svg",
+    "main.bff5f013.css.map": "/static/css/main.bff5f013.css.map",
+    "main.7a6074df.js.map": "/static/js/main.7a6074df.js.map",
+    "787.2a7a0ff0.chunk.js.map": "/static/js/787.2a7a0ff0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff5f013.css",
+    "static/js/main.7a6074df.js"
+  ]
+}
